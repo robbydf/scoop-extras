@@ -18,6 +18,7 @@ scoop install scoop-extras/slackcli
 | App | Description | Version |
 | --- | --- | --- |
 | [slackcli](bucket/slackcli.json) | Command-line tool for interacting with Slack workspaces and channels | [![Version](https://img.shields.io/github/v/release/shaharia-lab/slackcli)](https://github.com/shaharia-lab/slackcli/releases) |
+| [gcx](bucket/gcx.json) | CLI for managing Grafana and Grafana Cloud resources | [![Version](https://img.shields.io/github/v/release/grafana/gcx)](https://github.com/grafana/gcx/releases) |
 
 ## Updating
 
