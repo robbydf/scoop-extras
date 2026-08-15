@@ -10,7 +10,7 @@ Add this bucket to Scoop, then install an app from it:
 
 ```powershell
 scoop bucket add robbydf-scoop-extras https://github.com/robbydf/scoop-extras
-scoop install robbydf-scoop-extras/slackcli
+scoop install robbydf-scoop-extras/<app_name>
 ```
 
 ## Apps
@@ -25,9 +25,6 @@ scoop install robbydf-scoop-extras/slackcli
 
 ```powershell
 scoop update
-scoop install robbydf-scoop-extras/gcx
-scoop install robbydf-scoop-extras/ms365-cli
-scoop install robbydf-scoop-extras/...
 ```
 
 ## Contributing
