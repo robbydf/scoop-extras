@@ -9,8 +9,8 @@ Robby's [Scoop](https://scoop.sh/) bucket for apps that aren't in the main Scoop
 Add this bucket to Scoop, then install an app from it:
 
 ```powershell
-scoop bucket add robbydf-scoop-extras https://github.com/robbydf/scoop-extras
-scoop install robbydf-scoop-extras/<app_name>
+scoop bucket add robbydf_scoop-extras https://github.com/robbydf/scoop-extras
+scoop install robbydf_scoop-extras/<app_name>
 ```
 
 ## Apps
