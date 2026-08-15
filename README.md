@@ -25,7 +25,9 @@ scoop install robbydf-scoop-extras/slackcli
 
 ```powershell
 scoop update
-scoop update slackcli
+scoop install robbydf-scoop-extras/gcx
+scoop install robbydf-scoop-extras/ms365-cli
+scoop install robbydf-scoop-extras/...
 ```
 
 ## Contributing
