@@ -9,8 +9,8 @@ Robby's [Scoop](https://scoop.sh/) bucket for apps that aren't in the main Scoop
 Add this bucket to Scoop, then install an app from it:
 
 ```powershell
-scoop bucket add scoop-extras https://github.com/robbydf/scoop-extras
-scoop install scoop-extras/slackcli
+scoop bucket add robbydf-scoop-extras https://github.com/robbydf/scoop-extras
+scoop install robbydf-scoop-extras/slackcli
 ```
 
 ## Apps
@@ -19,6 +19,7 @@ scoop install scoop-extras/slackcli
 | --- | --- | --- |
 | [slackcli](bucket/slackcli.json) | Command-line tool for interacting with Slack workspaces and channels | [![Version](https://img.shields.io/github/v/release/shaharia-lab/slackcli)](https://github.com/shaharia-lab/slackcli/releases) |
 | [gcx](bucket/gcx.json) | CLI for managing Grafana and Grafana Cloud resources | [![Version](https://img.shields.io/github/v/release/grafana/gcx)](https://github.com/grafana/gcx/releases) |
+| [ms365-cli](bucket/ms365-cli.json) | A fast, scriptable CLI for Microsoft 365 via the Microsoft Graph API | [![Version](https://img.shields.io/github/v/release/jjuanrivvera/ms365-cli)](https://github.com/jjuanrivvera/ms365-cli/releases) |
 
 ## Updating
 
