@@ -24,7 +24,7 @@ scoop install robbydf_scoop-extras/<app_name>
 ## Updating
 
 ```powershell
-scoop update
+scoop update --all
 ```
 
 ## Contributing
